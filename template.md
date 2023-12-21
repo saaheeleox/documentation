@@ -39,3 +39,6 @@ This Source Code Form is subject to the terms of the Mozilla Public License, v. 
 >[!NOTE]
 >
 >This is a standard NOTE block.
+
+
+https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=en
